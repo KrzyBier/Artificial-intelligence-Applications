@@ -1,0 +1,75 @@
+c:\users\albert\documents\visual studio 2012\Projects\Wczytywanie ZPliku\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.exe.config
+c:\users\albert\documents\visual studio 2012\Projects\Wczytywanie ZPliku\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.exe
+c:\users\albert\documents\visual studio 2012\Projects\Wczytywanie ZPliku\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.pdb
+c:\users\albert\documents\visual studio 2012\Projects\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.csprojResolveAssemblyReference.cache
+c:\users\albert\documents\visual studio 2012\Projects\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie_ZPliku.Form1.resources
+c:\users\albert\documents\visual studio 2012\Projects\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie_ZPliku.Properties.Resources.resources
+c:\users\albert\documents\visual studio 2012\Projects\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.csproj.GenerateResource.Cache
+c:\users\albert\documents\visual studio 2012\Projects\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.exe
+c:\users\albert\documents\visual studio 2012\Projects\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.pdb
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\Wczytywanie ZPliku\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.exe.config
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.exe
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.pdb
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\Wczytywanie ZPliku\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.exe
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\Wczytywanie ZPliku\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.pdb
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.csprojResolveAssemblyReference.cache
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie_ZPliku.Form1.resources
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie_ZPliku.Properties.Resources.resources
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\Wczytywanie ZPliku\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.csproj.GenerateResource.Cache
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\Exhaustive\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.exe.config
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.exe
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.pdb
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.csprojResolveAssemblyReference.cache
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie_ZPliku.Form1.resources
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie_ZPliku.Properties.Resources.resources
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.csproj.GenerateResource.Cache
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\Exhaustive\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.exe
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\Exhaustive\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.pdb
+C:\Users\Krzysiek\Desktop\05.05.16lem2production\Exhaustive\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.exe.config
+C:\Users\Krzysiek\Desktop\05.05.16lem2production\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.exe
+C:\Users\Krzysiek\Desktop\05.05.16lem2production\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.pdb
+C:\Users\Krzysiek\Desktop\05.05.16lem2production\Exhaustive\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.exe
+C:\Users\Krzysiek\Desktop\05.05.16lem2production\Exhaustive\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.pdb
+C:\Users\Krzysiek\Desktop\05.05.16lem2production\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.csprojResolveAssemblyReference.cache
+C:\Users\Krzysiek\Desktop\05.05.16lem2production\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie_ZPliku.Form1.resources
+C:\Users\Krzysiek\Desktop\05.05.16lem2production\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie_ZPliku.Properties.Resources.resources
+C:\Users\Krzysiek\Desktop\05.05.16lem2production\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.csproj.GenerateResource.Cache
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\05.05.16lem2production\Exhaustive\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.exe.config
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\05.05.16lem2production\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.exe
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\05.05.16lem2production\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.pdb
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\05.05.16lem2production\Exhaustive\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.exe
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\05.05.16lem2production\Exhaustive\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.pdb
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\05.05.16lem2production\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.csprojResolveAssemblyReference.cache
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\05.05.16lem2production\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie_ZPliku.Form1.resources
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\05.05.16lem2production\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie_ZPliku.Properties.Resources.resources
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\ćw1\05.05.16lem2production\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.csproj.GenerateResource.Cache
+E:\31.05.16lem\31.05.16\Exhaustive\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.exe.config
+E:\31.05.16lem\31.05.16\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.exe
+E:\31.05.16lem\31.05.16\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.pdb
+E:\31.05.16lem\31.05.16\Exhaustive\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.exe
+E:\31.05.16lem\31.05.16\Exhaustive\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.pdb
+E:\31.05.16lem\31.05.16\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.csprojResolveAssemblyReference.cache
+E:\31.05.16lem\31.05.16\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie_ZPliku.Form1.resources
+E:\31.05.16lem\31.05.16\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie_ZPliku.Properties.Resources.resources
+E:\31.05.16lem\31.05.16\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.csproj.GenerateResource.Cache
+J:\31.05.16lem\31.05.16\Exhaustive\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.exe.config
+J:\31.05.16lem\31.05.16\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.exe
+J:\31.05.16lem\31.05.16\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.pdb
+J:\31.05.16lem\31.05.16\Exhaustive\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.exe
+J:\31.05.16lem\31.05.16\Exhaustive\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.pdb
+J:\31.05.16lem\31.05.16\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.csprojResolveAssemblyReference.cache
+J:\31.05.16lem\31.05.16\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie_ZPliku.Form1.resources
+J:\31.05.16lem\31.05.16\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie_ZPliku.Properties.Resources.resources
+J:\31.05.16lem\31.05.16\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.csproj.GenerateResource.Cache
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\GOTOWE\Ćw1\ćw1GOTOWE02.06.16\Exhaustive\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.exe.config
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\GOTOWE\Ćw1\ćw1GOTOWE02.06.16\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.exe
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\GOTOWE\Ćw1\ćw1GOTOWE02.06.16\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.pdb
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\GOTOWE\Ćw1\ćw1GOTOWE02.06.16\Exhaustive\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.exe
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\GOTOWE\Ćw1\ćw1GOTOWE02.06.16\Exhaustive\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.pdb
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\GOTOWE\Ćw1\ćw1GOTOWE02.06.16\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.csprojResolveAssemblyReference.cache
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\GOTOWE\Ćw1\ćw1GOTOWE02.06.16\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie_ZPliku.Form1.resources
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\GOTOWE\Ćw1\ćw1GOTOWE02.06.16\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie_ZPliku.Properties.Resources.resources
+C:\Users\Krzysztof\Desktop\3 ROK\6 semestr\sztuczna inteligencja\GOTOWE\Ćw1\ćw1GOTOWE02.06.16\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.csproj.GenerateResource.Cache
+D:\Studia\3 ROK\6 semestr\sztuczna inteligencja\GOTOWE\Ćw1\ćw1GOTOWE02.06.16\Exhaustive\Wczytywanie ZPliku\bin\Debug\Wczytywanie ZPliku.exe.config
+D:\Studia\3 ROK\6 semestr\sztuczna inteligencja\GOTOWE\Ćw1\ćw1GOTOWE02.06.16\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.exe
+D:\Studia\3 ROK\6 semestr\sztuczna inteligencja\GOTOWE\Ćw1\ćw1GOTOWE02.06.16\Exhaustive\Wczytywanie ZPliku\obj\Debug\Wczytywanie ZPliku.pdb
